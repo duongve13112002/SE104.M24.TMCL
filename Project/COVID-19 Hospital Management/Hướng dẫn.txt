@@ -1,0 +1,14 @@
+- Đầu tiên để chạy được website cần cài đặt đầy đủ các thư viện trong file requirements.txt và máy tính phải cài sẵn python
+Cách cài đặt nhanh: 
+B1: Mở cmd 
+B2 : Nhập dòng lệnh "pip install -r requirements.txt" và nhấn cài đặt 
+
+Cách chạy app
+B1 : Nhấn run file "run server.cmd" 
+B2 : Vô 1 trình duyệt bất kì và truy cập link  "http://127.0.0.1:8000/" để truy cập trang web
+
+Tài khoản đăng nhập:
+username: admin
+password: admin
+
+- Truy cập trang web dành cho admin thì truy cập đường link sau : "http://127.0.0.1:8000/admin"
